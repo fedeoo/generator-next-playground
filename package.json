@@ -1,0 +1,21 @@
+{
+  "name": "generator-next-playground",
+  "version": "0.0.1",
+  "description": "next generation front end trail playground with es6",
+  "scripts": {
+    "test": "npm test"
+  },
+  "files": [
+    "generators/app",
+    "generators/router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "fedeoo",
+  "license": "ISC",
+  "dependencies": {
+    "deep-extend": "^0.4.1",
+    "yeoman-generator": "^0.24.1"
+  }
+}
