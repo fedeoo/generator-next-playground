@@ -5,7 +5,7 @@ next generation playground generator
 ## Installation
 
 install node.js
-install yeoman using `npm install yeoman -g`
+install yeoman using `npm install yo -g`
 install the generator `npm install generator-next-playground -g`
 
 ## Usage
